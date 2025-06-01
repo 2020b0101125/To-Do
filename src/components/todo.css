@@ -62,6 +62,6 @@
 }
 .data img {
   margin-right: 0%;
-
+  cursor: grab;
   width: 30px;
 }
